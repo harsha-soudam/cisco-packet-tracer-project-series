@@ -1,35 +1,120 @@
-# cisco-packet-tracer-project-series
-
 # 🌐 Cisco Packet Tracer Project Series
 
 <div align="center">
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-Labs-blue?style=for-the-badge)
-![CCNA](https://img.shields.io/badge/Hands--On-Practice-success?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-1%2F12-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+
+**A structured Cisco Packet Tracer learning series covering networking fundamentals, enterprise networking, and security concepts through real-world hands-on projects.**
 
 </div>
 
-A collection of hands-on Cisco Packet Tracer projects designed to practice networking concepts, Cisco device configuration, and enterprise network design.
+---
+
+## 📖 About This Repository
+
+This repository documents my journey of learning computer networking using **Cisco Packet Tracer**, progressing from basic LAN design to enterprise-level networking and security.
+
+Each project introduces a small set of networking concepts through real-world scenarios, hands-on configuration, troubleshooting exercises, and professional documentation.
+
+The goal is to build practical networking skills while creating a portfolio relevant to **SOC Analyst** and **Security Analyst** roles.
 
 ---
 
-## 📂 Projects
+## 🎯 Learning Objectives
 
-| Project | Description |
-|---------|-------------|
-| **Project 01** | Small Office Network |
-| **Project 02** | VLAN Office Network |
-| **Project 03** | Inter-VLAN Routing |
-| **Project 04** | DHCP, DNS & Network Services |
-| **Project 05** | Network Security (ACLs, SSH & Port Security) |
-| **Project 06** | Wireless Office Network |
-| **Project 07** | Enterprise Campus Network |
-| **Project 08** | SOC Enterprise Lab |
-| **Project 09** | Static Routing |
-| **Project 10** | OSPF Routing |
-| **Project 11** | NAT, PAT & Internet Connectivity |
-| **Project 12** | High Availability (HSRP) |
+- Build strong networking fundamentals
+- Learn Cisco switching and routing
+- Understand enterprise network design
+- Practice structured troubleshooting
+- Analyze packet flow using Simulation Mode
+- Develop networking skills for cybersecurity
+- Build a professional GitHub portfolio
+
+---
+
+## 🚀 Progress Tracker
+
+**Overall Progress:** **1 / 12 Projects Completed**
+
+```text
+████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8%
+```
+
+| Status | Count |
+|:------:|------:|
+| ✅ Completed | 1 |
+| 🚧 In Progress | 0 |
+| ⏳ Planned | 11 |
+
+### 📌 Project Checklist
+
+- [x] Project 01 – Small Office Network
+- [ ] Project 02 – VLAN Office Network
+- [ ] Project 03 – Inter-VLAN Routing
+- [ ] Project 04 – DHCP, DNS & Network Services
+- [ ] Project 05 – Network Security (ACLs, SSH & Port Security)
+- [ ] Project 06 – Wireless Office Network
+- [ ] Project 07 – Enterprise Campus Network
+- [ ] Project 08 – SOC Enterprise Lab
+- [ ] Project 09 – Static Routing
+- [ ] Project 10 – OSPF Routing
+- [ ] Project 11 – NAT, PAT & Internet Connectivity
+- [ ] Project 12 – High Availability (HSRP)
+
+---
+
+## 🛣️ Project Roadmap
+
+| Status | Project | Description |
+|:------:|---------|-------------|
+| ✅ | **Project 01** | Small Office Network |
+| ⏳ | **Project 02** | VLAN Office Network |
+| ⏳ | **Project 03** | Inter-VLAN Routing |
+| ⏳ | **Project 04** | DHCP, DNS & Network Services |
+| ⏳ | **Project 05** | Network Security (ACLs, SSH & Port Security) |
+| ⏳ | **Project 06** | Wireless Office Network |
+| ⏳ | **Project 07** | Enterprise Campus Network |
+| ⏳ | **Project 08** | SOC Enterprise Lab |
+| ⏳ | **Project 09** | Static Routing |
+| ⏳ | **Project 10** | OSPF Routing |
+| ⏳ | **Project 11** | NAT, PAT & Internet Connectivity |
+| ⏳ | **Project 12** | High Availability (HSRP) |
+
+---
+
+## 📚 Skills Covered
+
+| Networking | Security | Troubleshooting |
+|------------|----------|-----------------|
+| LAN Design | Network Security | Connectivity Testing |
+| Ethernet Switching | ACLs | Packet Flow Analysis |
+| VLANs | SSH | IP Address Troubleshooting |
+| Inter-VLAN Routing | Port Security | Layer 2 Troubleshooting |
+| Routing | Wireless Security | Layer 3 Troubleshooting |
+| DHCP & DNS | SOC Networking | Enterprise Troubleshooting |
+
+---
+
+## 📖 Learning Methodology
+
+Every project follows the same structured workflow:
+
+```text
+Understand the Concept
+        ↓
+Design the Topology
+        ↓
+Configure the Network
+        ↓
+Verify Connectivity
+        ↓
+Troubleshoot Issues
+        ↓
+Document the Project
+```
 
 ---
 
@@ -54,4 +139,8 @@ cisco-packet-tracer-project-series/
 
 ---
 
-⭐ If you find these projects useful, consider starring this repository.
+## ⭐ Support
+
+If you find these projects useful, consider **starring** this repository.
+
+Your support motivates me to continue building and documenting this series.
