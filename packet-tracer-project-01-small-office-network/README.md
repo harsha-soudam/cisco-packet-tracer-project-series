@@ -85,7 +85,8 @@ This project focuses on understanding Ethernet communication, IP addressing, ARP
 
 Connectivity was verified using:
 
-- Ping
+- Successful ICMP ping between hosts
+- Failed ICMP ping after intentional IP misconfiguration
 - `ipconfig`
 - Packet Tracer Simulation Mode
 
@@ -93,9 +94,11 @@ Connectivity was verified using:
 
 ## 🛠️ Troubleshooting Performed
 
-- Incorrect IP Address
-- Different Network Communication Failure
-- Packet Flow Analysis
+- Incorrect IP Address Configuration
+- Hosts in Different Networks
+- ICMP Connectivity Testing
+- Packet Flow Analysis using Simulation Mode
+- Root Cause Identification and Resolution
 
 ---
 
