@@ -45,7 +45,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 
 | Status | Count |
 |:------:|------:|
-| ✅ Completed | 1 |
+| ✅ Completed | 2 |
 | 🚧 In Progress | 0 |
 | ⏳ Planned | 11 |
 
@@ -71,7 +71,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 | Status | Project | Description |
 |:------:|---------|-------------|
 | ✅ | **Project 01** | Small Office Network |
-| ⏳ | **Project 02** | VLAN Office Network |
+| ✅ | **Project 02** | VLAN Office Network |
 | ⏳ | **Project 03** | Inter-VLAN Routing |
 | ⏳ | **Project 04** | DHCP, DNS & Network Services |
 | ⏳ | **Project 05** | Network Security (ACLs, SSH & Port Security) |
