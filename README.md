@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-1%2F12-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-3%2F12-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
@@ -37,7 +37,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 
 ## 🚀 Progress Tracker
 
-**Overall Progress:** **1 / 12 Projects Completed**
+**Overall Progress:** **3 / 12 Projects Completed**
 
 ```text
 █████████░░░░░░░░░░░░░░░░░░░░░░░░░ 25%
