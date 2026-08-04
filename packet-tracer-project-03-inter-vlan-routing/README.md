@@ -39,7 +39,8 @@ To solve this issue while maintaining network segmentation, a Cisco 1941 router 
 
 ## 🖥️ Network Topology
 
-(Add topology screenshot here)
+<img width="760" height="323" alt="image" src="https://github.com/user-attachments/assets/93f6b61f-cd61-48e4-9e31-2bed552ae29b" />
+
 
 ---
 
