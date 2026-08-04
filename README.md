@@ -40,20 +40,20 @@ The goal is to build practical networking skills while creating a portfolio rele
 **Overall Progress:** **1 / 12 Projects Completed**
 
 ```text
-████░░░░░░ 17%
+█████████░░░░░░░░░░░░░░░░░░░░░░░░░ 25%
 ```
 
 | Status | Count |
 |:------:|------:|
-| ✅ Completed | 2 |
+| ✅ Completed | 3 |
 | 🚧 In Progress | 0 |
-| ⏳ Planned | 11 |
+| ⏳ Planned | 9 |
 
 ### 📌 Project Checklist
 
 - [x] Project 01 – Small Office Network
-- [ ] Project 02 – VLAN Office Network
-- [ ] Project 03 – Inter-VLAN Routing
+- [x] Project 02 – VLAN Office Network
+- [x] Project 03 – Inter-VLAN Routing
 - [ ] Project 04 – DHCP, DNS & Network Services
 - [ ] Project 05 – Network Security (ACLs, SSH & Port Security)
 - [ ] Project 06 – Wireless Office Network
@@ -72,7 +72,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 |:------:|---------|-------------|
 | ✅ | **Project 01** | Small Office Network |
 | ✅ | **Project 02** | VLAN Office Network |
-| ⏳ | **Project 03** | Inter-VLAN Routing |
+| ✅ | **Project 03** | Inter-VLAN Routing |
 | ⏳ | **Project 04** | DHCP, DNS & Network Services |
 | ⏳ | **Project 05** | Network Security (ACLs, SSH & Port Security) |
 | ⏳ | **Project 06** | Wireless Office Network |
