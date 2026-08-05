@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-3%2F12-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-4%2F12-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
@@ -40,21 +40,21 @@ The goal is to build practical networking skills while creating a portfolio rele
 **Overall Progress:** **3 / 12 Projects Completed**
 
 ```text
-█████████░░░░░░░░░░░░░░░░░░░░░░░░░ 25%
+████████████░░░░░░░░░░░░░░░░░░░░░░  33%
 ```
 
 | Status | Count |
 |:------:|------:|
-| ✅ Completed | 3 |
+| ✅ Completed | 4 |
 | 🚧 In Progress | 0 |
-| ⏳ Planned | 9 |
+| ⏳ Planned | 8 |
 
 ### 📌 Project Checklist
 
 - [x] Project 01 – Small Office Network
 - [x] Project 02 – VLAN Office Network
 - [x] Project 03 – Inter-VLAN Routing
-- [ ] Project 04 – DHCP, DNS & Network Services
+- [x] Project 04 – DHCP, DNS & Network Services
 - [ ] Project 05 – Network Security (ACLs, SSH & Port Security)
 - [ ] Project 06 – Wireless Office Network
 - [ ] Project 07 – Enterprise Campus Network
@@ -73,7 +73,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 | ✅ | **Project 01** | Small Office Network |
 | ✅ | **Project 02** | VLAN Office Network |
 | ✅ | **Project 03** | Inter-VLAN Routing |
-| ⏳ | **Project 04** | DHCP, DNS & Network Services |
+| ✅ | **Project 04** | DHCP, DNS & Network Services |
 | ⏳ | **Project 05** | Network Security (ACLs, SSH & Port Security) |
 | ⏳ | **Project 06** | Wireless Office Network |
 | ⏳ | **Project 07** | Enterprise Campus Network |
