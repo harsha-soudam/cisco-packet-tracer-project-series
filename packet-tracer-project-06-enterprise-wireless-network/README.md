@@ -214,7 +214,6 @@ interface fa0/10
  exit
 
 end
-write memory
 ```
 
 ---
@@ -326,7 +325,6 @@ vlan 50
  exit
 
 end
-write memory
 ```
 
 ### Guest VLAN Details
@@ -373,7 +371,6 @@ interface gigabitEthernet0/0.50
  exit
 
 end
-write memory
 ```
 
 ---
@@ -410,7 +407,6 @@ ip dhcp pool GUEST-WIRELESS
  exit
 
 end
-write memory
 ```
 
 ### Expected Guest Address
@@ -549,7 +545,6 @@ interface gigabitEthernet0/0.50
  exit
 
 end
-write memory
 ```
 
 ---
@@ -835,31 +830,6 @@ I would investigate the source IP, DHCP assignment, VLAN, destination addresses,
 
 ---
 
-# 📸 Screenshot Checklist
-
-Save screenshots inside the `screenshots/` folder.
-
-| # | Screenshot | Filename |
-|---:|---|---|
-| 1 | Final topology | `01-final-topology.png` |
-| 2 | Fa0/9 and Fa0/10 configuration | `02-wireless-switch-ports.png` |
-| 3 | AP1 corporate wireless configuration | `03-ap1-corporate-wireless.png` |
-| 4 | Corporate client connected | `04-corporate-client.png` |
-| 5 | AP2 Guest wireless configuration | `05-ap2-guest-wireless.png` |
-| 6 | VLAN 50 configuration | `06-vlan-50.png` |
-| 7 | VLAN 50 gateway | `07-vlan-50-gateway.png` |
-| 8 | Guest DHCP pool | `08-guest-dhcp-pool.png` |
-| 9 | Guest client IP address | `09-guest-client-ip.png` |
-| 10 | ACL configuration | `10-guest-acl.png` |
-| 11 | ACL applied to G0/0.50 | `11-acl-applied.png` |
-| 12 | Guest gateway ping | `12-guest-gateway-ping.png` |
-| 13 | Guest internal network blocked | `13-guest-access-blocked.png` |
-| 14 | ACL hit counters | `14-acl-hit-counters.png` |
-
-> **Security note:** Do not expose the actual WPA2-PSK in screenshots uploaded to GitHub.
-
----
-
 # 📁 Project Structure
 
 ```text
@@ -869,20 +839,7 @@ packet-tracer-project-06-enterprise-wireless-network/
 ├── packet-tracer-project-06-enterprise-wireless-network.pkt
 │
 └── screenshots/
-    ├── 01-final-topology.png
-    ├── 02-wireless-switch-ports.png
-    ├── 03-ap1-corporate-wireless.png
-    ├── 04-corporate-client.png
-    ├── 05-ap2-guest-wireless.png
-    ├── 06-vlan-50.png
-    ├── 07-vlan-50-gateway.png
-    ├── 08-guest-dhcp-pool.png
-    ├── 09-guest-client-ip.png
-    ├── 10-guest-acl.png
-    ├── 11-acl-applied.png
-    ├── 12-guest-gateway-ping.png
-    ├── 13-guest-access-blocked.png
-    └── 14-acl-hit-counters.png
+    
 ```
 
 ---
