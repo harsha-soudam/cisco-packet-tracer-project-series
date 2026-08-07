@@ -40,7 +40,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 **Overall Progress:** **6 / 12 Projects Completed**
 
 ```text
-███████████████░░░░░░░░░░░░░░░░░░░░ 42%
+███████████████░░░░░░░░░░░░░ 50%
 ```
 
 | Status | Count |
