@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-5%2F12-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-6%2F12-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
@@ -37,7 +37,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 
 ## 🚀 Progress Tracker
 
-**Overall Progress:** **5 / 12 Projects Completed**
+**Overall Progress:** **6 / 12 Projects Completed**
 
 ```text
 ███████████████░░░░░░░░░░░░░░░░░░░░ 42%
@@ -45,9 +45,9 @@ The goal is to build practical networking skills while creating a portfolio rele
 
 | Status | Count |
 |:------:|------:|
-| ✅ Completed | 5 |
+| ✅ Completed | 6 |
 | 🚧 In Progress | 0 |
-| ⏳ Planned | 7 |
+| ⏳ Planned | 6 |
 
 ### 📌 Project Checklist
 
@@ -56,7 +56,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 - [x] Project 03 – Inter-VLAN Routing
 - [x] Project 04 – DHCP, DNS & Network Services
 - [x] Project 05 – Network Security (ACLs, SSH & Port Security)
-- [ ] Project 06 – Wireless Office Network
+- [x] Project 06 – Wireless Office Network
 - [ ] Project 07 – Enterprise Campus Network
 - [ ] Project 08 – SOC Enterprise Lab
 - [ ] Project 09 – Static Routing
@@ -75,7 +75,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 | ✅ | **Project 03** | Inter-VLAN Routing |
 | ✅ | **Project 04** | DHCP, DNS & Network Services |
 | ✅ | **Project 05** | Network Security (ACLs, SSH & Port Security) |
-| ⏳ | **Project 06** | Wireless Office Network |
+| ✅ | **Project 06** | Wireless Office Network |
 | ⏳ | **Project 07** | Enterprise Campus Network |
 | ⏳ | **Project 08** | SOC Enterprise Lab |
 | ⏳ | **Project 09** | Static Routing |
