@@ -797,13 +797,11 @@ Test DNS resolution.
 
 # 📸 Screenshot Checklist
 
-Save the screenshots inside:
-
 ```text
 screenshots/
 ```
 
-| # | Screenshot | Suggested Filename |
+| # | Screenshot |
 |---:|---|---|
 | 1 | Final topology | `01-final-topology.png` |
 | 2 | Fa0/9 and Fa0/10 configuration | `02-wireless-switch-ports.png` |
@@ -819,8 +817,6 @@ screenshots/
 | 12 | Guest gateway ping | `12-guest-gateway-ping.png` |
 | 13 | Guest internal network blocked | `13-guest-access-blocked.png` |
 | 14 | DNS validation | `14-dns-validation.png` |
-
-> **Security note:** Do not expose the actual WPA2-PSK in screenshots uploaded to GitHub.
 
 ---
 
