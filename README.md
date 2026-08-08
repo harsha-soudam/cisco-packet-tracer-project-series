@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-6%2F12-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-7%2F12-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
@@ -37,17 +37,17 @@ The goal is to build practical networking skills while creating a portfolio rele
 
 ## 🚀 Progress Tracker
 
-**Overall Progress:** **6 / 12 Projects Completed**
+**Overall Progress:** **7 / 12 Projects Completed**
 
 ```text
-███████████████░░░░░░░░░░░░░ 50%
+███████████████████░░░░░░░  58%
 ```
 
 | Status | Count |
 |:------:|------:|
-| ✅ Completed | 6 |
+| ✅ Completed | 7 |
 | 🚧 In Progress | 0 |
-| ⏳ Planned | 6 |
+| ⏳ Planned | 5 |
 
 ### 📌 Project Checklist
 
@@ -57,7 +57,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 - [x] Project 04 – DHCP, DNS & Network Services
 - [x] Project 05 – Network Security (ACLs, SSH & Port Security)
 - [x] Project 06 – Wireless Office Network
-- [ ] Project 07 – Enterprise Campus Network
+- [x] Project 07 – Enterprise Routing & ACL Security
 - [ ] Project 08 – SOC Enterprise Lab
 - [ ] Project 09 – Static Routing
 - [ ] Project 10 – OSPF Routing
@@ -76,7 +76,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 | ✅ | **Project 04** | DHCP, DNS & Network Services |
 | ✅ | **Project 05** | Network Security (ACLs, SSH & Port Security) |
 | ✅ | **Project 06** | Wireless Office Network |
-| ⏳ | **Project 07** | Enterprise Campus Network |
+| ✅ | **Project 07** | Enterprise Routing & ACL Security |
 | ⏳ | **Project 08** | SOC Enterprise Lab |
 | ⏳ | **Project 09** | Static Routing |
 | ⏳ | **Project 10** | OSPF Routing |
@@ -129,7 +129,7 @@ cisco-packet-tracer-project-series/
 ├── packet-tracer-project-04-dhcp-dns-network-services/
 ├── packet-tracer-project-05-network-security/
 ├── packet-tracer-project-06-wireless-office-network/
-├── packet-tracer-project-07-enterprise-campus-network/
+├── packet-tracer-project-07-enterprise-routing & ACL-Security/
 ├── packet-tracer-project-08-soc-enterprise-lab/
 ├── packet-tracer-project-09-static-routing/
 ├── packet-tracer-project-10-ospf-routing/
