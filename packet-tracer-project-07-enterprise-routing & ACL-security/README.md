@@ -517,5 +517,5 @@ packet-tracer-project-07-enterprise-routing-acl-security/
 ╚══════════════════════════════════════════╝
 ```
 
-> **Built and tested in Cisco Packet Tracer as part of the Enterprise Networking & Security Project Series.**
+> **Built and tested in Cisco Packet Tracer as part of the Cisco Packet Tracer Project Series.**
 
