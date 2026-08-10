@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-7%2F12-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-8%2F10-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
@@ -37,17 +37,17 @@ The goal is to build practical networking skills while creating a portfolio rele
 
 ## 🚀 Progress Tracker
 
-**Overall Progress:** **7 / 12 Projects Completed**
+**Overall Progress:** **8 / 10 Projects Completed**
 
 ```text
-███████████████████░░░░░░░  58%
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  80%
 ```
 
 | Status | Count |
 |:------:|------:|
-| ✅ Completed | 7 |
+| ✅ Completed | 8 |
 | 🚧 In Progress | 0 |
-| ⏳ Planned | 5 |
+| ⏳ Planned | 2 |
 
 ### 📌 Project Checklist
 
@@ -58,11 +58,9 @@ The goal is to build practical networking skills while creating a portfolio rele
 - [x] Project 05 – Network Security (ACLs, SSH & Port Security)
 - [x] Project 06 – Wireless Office Network
 - [x] Project 07 – Enterprise Routing & ACL Security
-- [ ] Project 08 – SOC Enterprise Lab
-- [ ] Project 09 – Static Routing
-- [ ] Project 10 – OSPF Routing
-- [ ] Project 11 – NAT, PAT & Internet Connectivity
-- [ ] Project 12 – High Availability (HSRP)
+- [x] Project 08 – OSPF Routing
+- [ ] Project 09 – NAT, PAT & Internet Connectivity
+- [ ] Project 10 – High Availability (HSRP)
 
 ---
 
@@ -77,11 +75,9 @@ The goal is to build practical networking skills while creating a portfolio rele
 | ✅ | **Project 05** | Network Security (ACLs, SSH & Port Security) |
 | ✅ | **Project 06** | Wireless Office Network |
 | ✅ | **Project 07** | Enterprise Routing & ACL Security |
-| ⏳ | **Project 08** | SOC Enterprise Lab |
-| ⏳ | **Project 09** | Static Routing |
-| ⏳ | **Project 10** | OSPF Routing |
-| ⏳ | **Project 11** | NAT, PAT & Internet Connectivity |
-| ⏳ | **Project 12** | High Availability (HSRP) |
+| ✅ | **Project 08** | OSPF Routing |
+| ⏳ | **Project 09** | NAT, PAT & Internet Connectivity |
+| ⏳ | **Project 10** | High Availability (HSRP) |
 
 ---
 
@@ -130,11 +126,9 @@ cisco-packet-tracer-project-series/
 ├── packet-tracer-project-05-network-security/
 ├── packet-tracer-project-06-wireless-office-network/
 ├── packet-tracer-project-07-enterprise-routing & ACL-Security/
-├── packet-tracer-project-08-soc-enterprise-lab/
-├── packet-tracer-project-09-static-routing/
-├── packet-tracer-project-10-ospf-routing/
-├── packet-tracer-project-11-nat-pat-internet-connectivity/
-└── packet-tracer-project-12-high-availability-hsrp/
+├── packet-tracer-project-08-ospf-routing/
+├── packet-tracer-project-09-nat-pat-internet-connectivity/
+└── packet-tracer-project-10-high-availability-hsrp/
 ```
 
 ---
