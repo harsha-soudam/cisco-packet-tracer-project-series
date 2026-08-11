@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-8%2F10-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-9%2F10-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
@@ -37,17 +37,17 @@ The goal is to build practical networking skills while creating a portfolio rele
 
 ## 🚀 Progress Tracker
 
-**Overall Progress:** **8 / 10 Projects Completed**
+**Overall Progress:** **9 / 10 Projects Completed**
 
 ```text
-🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  80%
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  90%
 ```
 
 | Status | Count |
 |:------:|------:|
-| ✅ Completed | 8 |
+| ✅ Completed | 9 |
 | 🚧 In Progress | 0 |
-| ⏳ Planned | 2 |
+| ⏳ Planned | 1 |
 
 ### 📌 Project Checklist
 
@@ -59,7 +59,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 - [x] Project 06 – Wireless Office Network
 - [x] Project 07 – Enterprise Routing & ACL Security
 - [x] Project 08 – OSPF Routing
-- [ ] Project 09 – NAT, PAT & Internet Connectivity
+- [x] Project 09 – NAT, PAT & Internet Connectivity
 - [ ] Project 10 – High Availability (HSRP)
 
 ---
@@ -76,7 +76,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 | ✅ | **Project 06** | Wireless Office Network |
 | ✅ | **Project 07** | Enterprise Routing & ACL Security |
 | ✅ | **Project 08** | OSPF Routing |
-| ⏳ | **Project 09** | NAT, PAT & Internet Connectivity |
+| ✅ | **Project 09** | NAT, PAT & Internet Connectivity |
 | ⏳ | **Project 10** | High Availability (HSRP) |
 
 ---
