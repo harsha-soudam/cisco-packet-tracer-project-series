@@ -353,12 +353,7 @@ packet-tracer-project-10-high-availability-hsrp/
 ├── packet-tracer-project-10.pkt
 │
 └── screenshots/
-    ├── topology.png
-    ├── ip-addressing.png
-    ├── hsrp-configuration.png
-    ├── hsrp-active-standby.png
-    ├── failover-test.png
-    └── recovery-test.png
+
 ```
 
 ---
