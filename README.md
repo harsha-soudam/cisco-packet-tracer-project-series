@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-9%2F10-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-10%2F10-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
@@ -45,9 +45,9 @@ The goal is to build practical networking skills while creating a portfolio rele
 
 | Status | Count |
 |:------:|------:|
-| ✅ Completed | 9 |
+| ✅ Completed | 10 |
 | 🚧 In Progress | 0 |
-| ⏳ Planned | 1 |
+| ⏳ Planned | 0 |
 
 ### 📌 Project Checklist
 
@@ -60,7 +60,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 - [x] Project 07 – Enterprise Routing & ACL Security
 - [x] Project 08 – OSPF Routing
 - [x] Project 09 – NAT, PAT & Internet Connectivity
-- [ ] Project 10 – High Availability (HSRP)
+- [x] Project 10 – High Availability (HSRP)
 
 ---
 
@@ -77,7 +77,7 @@ The goal is to build practical networking skills while creating a portfolio rele
 | ✅ | **Project 07** | Enterprise Routing & ACL Security |
 | ✅ | **Project 08** | OSPF Routing |
 | ✅ | **Project 09** | NAT, PAT & Internet Connectivity |
-| ⏳ | **Project 10** | High Availability (HSRP) |
+| ✅ | **Project 10** | High Availability (HSRP) |
 
 ---
 
