@@ -4,7 +4,7 @@
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Projects](https://img.shields.io/badge/Projects-9%2F10-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-2E7D32?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 **A structured Cisco Packet Tracer learning series covering networking fundamentals, enterprise networking, and security concepts through real-world hands-on projects.**
